@@ -5,19 +5,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
-
-<url>
- <loc>https://lee-zixu.github.io/REFINE.github.io/</loc>
- <priority>0.3</priority>
- <lastmod>2026-03-20</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://lee-zixu.github.io</loc>
- <priority>0.3</priority>
- <lastmod>2026-03-20</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
+  <url>
+    <loc>https://lee-zixu.github.io/ENCODER.github.io/</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
